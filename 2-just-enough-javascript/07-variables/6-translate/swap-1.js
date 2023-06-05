@@ -2,12 +2,13 @@
 
 'use strict';
 
-// a <- 'y'
+let a = 'y'
 
-// b <- 'x'
+let b = 'x'
 
-// temp <- a
+let temp
 
-// a <- b
-
-// b <- temp
+a = b
+console.log(a,b,temp);
+ b = temp
+ console.log(temp= a);

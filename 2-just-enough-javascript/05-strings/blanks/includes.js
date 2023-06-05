@@ -11,18 +11,7 @@ console.log('JavaScript'.includes('vaSc')); // true
 console.log('JavaScript'.includes('VAsC')); // false
 
 // exercises
-console.log('HackYourFuture'.includes(_)); // true
-console.log('HackYourFuture'.includes(_)); // true
-console.log('HackYourFuture'.includes(_)); // true
-
-console.log('HackYourFuture'.includes(_)); // false
-console.log('HackYourFuture'.includes(_)); // false
-console.log('HackYourFuture'.includes(_)); // false
-
-console.oog(_.includes(' Bye')); // true
-console.oog(_.includes('. Car')); // true
-console.oog(_.includes('+')); // true
-
-console.oog(_.includes('hi')); // false
-console.oog(_.includes('road')); // false
-console.oog(_.includes('Ima')); // false
+console.log('helloAll'.includes('All')); //true
+console.log('HTMLWebsite'.includes('Website')); //true
+console.log('cssDesign'.includes('Design')); //true
+console.log('helloAll'.includes('all')); //false

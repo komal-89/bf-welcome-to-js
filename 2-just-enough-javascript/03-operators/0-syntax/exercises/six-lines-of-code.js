@@ -6,7 +6,7 @@
 'use strict';
 
 
-2 + 2;
+5 + 2;
 
 
 true === true;
@@ -15,10 +15,10 @@ true === true;
 2 === '2';
 
 
-console.log('hel' + 'o!');
+console.log('konjhhel' + 'o!');
 
 
-console.log(2 === 2);
+console.log(3 === 2);
 
 
 console.log(true === false);

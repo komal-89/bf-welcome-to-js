@@ -4,8 +4,8 @@
 
 // fill in the _ to complete the exercises
 
-console.log('Xyz'._()); // 'xyz'
-console.log('xyZ'._()); // 'XYZ'
+console.log('hello');
+console.log('apple');
 
 // find 4 different ways to create each value using a string method
 

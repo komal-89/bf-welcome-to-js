@@ -2,11 +2,10 @@
 
 'use strict';
 
-let first = 'angus';
-let last = 'croll';
+let first = ' anika';
+let last  = ' misra';
 
-let greeting = 'hello ' + first + ' ' + last;
+let greeting = 'hello' + first + ''+ last;
+greetings = greeting + '!';
 
-greeting = greeting + '!';
-
-console.log(greeting); // 'hello angus croll!'
+console.log(greetings); // 'hello anika misra !'

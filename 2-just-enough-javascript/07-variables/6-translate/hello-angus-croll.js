@@ -2,10 +2,12 @@
 
 'use strict';
 
-// first <- 'angus'
+let first ='anika';
 
-// last <- 'croll'
+let last = 'misra';
 
-// greeting <- 'hello ' + first + ' ' + last
+let greeting ='hello ' + first + ' ' + last;
 
-// greeting <- greeting + '!'
+greeting = greeting + '!';
+
+console.log (greeting);

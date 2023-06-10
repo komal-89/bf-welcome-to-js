@@ -2,9 +2,9 @@
 
 'use strict';
 
-let input = prompt('enter something with "ear" in it');
+let input = prompt('enter something with "hello" ');
 
-let message;
+let message = "";
 if (input === null) {
   message = 'you canceled';
 } else {

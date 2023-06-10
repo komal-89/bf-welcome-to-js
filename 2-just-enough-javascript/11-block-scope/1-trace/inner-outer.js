@@ -2,11 +2,11 @@
 
 'use strict';
 
-let greeting = 'hello';
+let greeting = 'Good morning';
 
 {
-  let newGreeting = 'bye';
+  let newGreeting = 'Good bye';
   greeting = newGreeting;
 }
 
-console.log(greeting === 'bye');
+console.log(greeting === 'Good bye');

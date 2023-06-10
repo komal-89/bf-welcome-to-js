@@ -1,11 +1,11 @@
 'use strict';
 
-__;
-console.log(a);
+let greeting = 'hello';
+console.log(greeting);
 
 {
-  __;
-  console.log(a);
+  let phrase = 'bye';
+  console.log(phrase);
 }
-
-console.log(a);
+let word = 'word'
+console.log(word);

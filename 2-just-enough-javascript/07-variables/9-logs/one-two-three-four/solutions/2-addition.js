@@ -2,14 +2,15 @@
 
 let number = 0;
 
-__;
-__;
+number++;
 
-__;
-__;
+console.log(number);
 
-__;
-__;
+number++;
+console.log(number);
 
-__;
-__;
+number++;
+console.log(number);
+
+number++;
+console.log(number);
